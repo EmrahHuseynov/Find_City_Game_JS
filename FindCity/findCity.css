@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: aqua;
+}
+.clearfix{
+    clear: both;
+}
+.head{
+    width: 400px;
+    margin-left: 40%;
+    margin-top: 0px;
+    font-family: monospace;
+    color: fuchsia;
+}
+.head>span{
+    color:cadetblue;
+}
+.about{
+    margin-left: 40px;
+    margin-right: 20px;
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+.game{
+    margin-top: 18px;
+    float: left;
+    width: 50%;
+    height: 500px;
+
+}
+.game label{
+    width: 100%;
+    color:forestgreen;
+    font-size: 1em;    
+}
+.game h1{
+    margin-left: 20px;
+}
+.ready{
+    margin-left: 130px;
+}
+.result{
+    font-size: 1.4em;
+    color: forestgreen;
+}
+.help
